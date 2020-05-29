@@ -1,0 +1,60 @@
+======== Elected Candidate ========
+Department name: 건설환경공학과
+name: HELEN HARRIS
+Student_id: 15
+Votes: 26
+=============================
+======== Elected Candidate ========
+Department name: 소프트웨어전공
+name: YVONNE WATKINS
+Student_id: 174
+Votes: 48
+=============================
+======== Elected Candidate ========
+Department name: 컴퓨터전공
+name: SALLY PIERCE
+Student_id: 167
+Votes: 13
+=============================
+======== Elected Candidate ========
+Department name: 전기공학전공
+name: KIM CRUZ
+Student_id: 118
+Votes: 10
+=============================
+======== Elected Candidate ========
+Department name: 건축공학부
+name: COLLEEN BURTON
+Student_id: 227
+Votes: 19
+=============================
+======== Elected Candidate ========
+Department name: 화학공학전공
+name: EILEEN CARR
+Student_id: 205
+Votes: 12
+=============================
+======== Elected Candidate ========
+Department name: 생명공학전공
+name: BERNICE WILLIS
+Student_id: 172
+Votes: 9
+=============================
+======== Elected Candidate ========
+Department name: 유기나노공학과
+name: PENNY NEAL
+Student_id: 271
+Votes: 10
+=============================
+======== Elected Candidate ========
+Department name: 에너지공학과
+name: GERTRUDE CASTILLO
+Student_id: 207
+Votes: 9
+=============================
+======== Elected Candidate ========
+Department name: 기계공학부
+name: MAUREEN LITTLE
+Student_id: 226
+Votes: 12
+=============================
